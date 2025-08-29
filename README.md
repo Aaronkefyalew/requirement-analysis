@@ -75,7 +75,8 @@ Use Case Diagrams are visual representations of the interactions between users (
 - Enhance communication between stakeholders and developers.  
 
 ### Booking Management System – Use Case Diagram  
-![Use Case Diagram](./alx-booking-uc.png)  
+![Use Case Diagram](./alx-booking-uc.png)  <img width="660" height="348" alt="image" src="https://github.com/user-attachments/assets/834ce290-315a-410c-a203-73043370bb85" />
+
 
 *(Actors: Customer, Admin, Payment Gateway; Use Cases: Search Room, Book Room, Cancel Booking, Make Payment, Generate Report)*  
 
